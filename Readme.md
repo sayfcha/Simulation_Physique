@@ -34,9 +34,9 @@ Projet personnel de simulation et commande de systèmes physiques réalisé en P
 
 ## Résultats & Validations
 
-- 📉 Bonne concordance entre simulations et solutions analytiques
-- 🎯 Réponse correcte aux consignes avec régulateurs PI / P+D
-- 📽️ Visualisation claire grâce à `pygame`
+- Bonne concordance entre simulations et solutions analytiques
+- Réponse correcte aux consignes avec régulateurs PI / P+D
+- Visualisation claire grâce à `pygame`
 
 ## Limitations actuelles
 

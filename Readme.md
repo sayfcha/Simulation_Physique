@@ -1,7 +1,7 @@
 
 # Simulation Physique & Commande (2024/2025)
 
-Projet personnel de simulation et commande de systèmes physiques réalisé en Python, dans le cadre de l'UE "Simulation Physique". Ce dépôt regroupe plusieurs modules : moteur CC, centrifugeuse, PID, pendule double, barre rigide 2D, et TurtleBots.
+Projet de simulation et commande de systèmes physiques réalisé en Python, dans le cadre de l'UE "Simulation Physique". Ce dépôt regroupe plusieurs modules : moteur CC, centrifugeuse, PID, pendule double, barre rigide 2D, et TurtleBots.
 
 ## Fonctionnalités principales
 
@@ -49,11 +49,4 @@ Projet personnel de simulation et commande de systèmes physiques réalisé en P
 - Ajout d’un retour utilisateur (clavier / souris)
 - Contrôle en boucle fermée pour les TurtleBots
 - Extension à des systèmes multi-corps avec contacts
-
-## Auteur
-
-Sayf Chafik  
-[Université - Simulation Physique 2024/2025]
-
----
 
